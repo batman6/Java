@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/PracticeProgram/nbproject/private/
+/Bank/nbproject/private/
+/Bank/build/
+/AbstractExample/nbproject/private/
+/AbstractExample/build/
+/InterfaceExample/nbproject/private/
+/InterfaceExample/build/
+/ExecptionExample/nbproject/private/
+/ExecptionExample/build/
+/ExecptionExample/dist/
+/FileExample/nbproject/private/
+/FileExample/build/
+/FileExample/dist/
+/CabBookingSystem/nbproject/private/
+/CabBookingSystem/build/
+/Calculator/nbproject/private/
+/Calculator/build/
+/Calculator/dist/
